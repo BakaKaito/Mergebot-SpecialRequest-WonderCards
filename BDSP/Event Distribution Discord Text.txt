@@ -1,0 +1,12 @@
+**__Event Distributions__**
+
+Using `$sr name`, the bot will simulate past Event Distributions:  
+```
+BDSP Early Purchase Distribution Manaphy Egg: megg
+Pokémon Giratina & The Sky Warrior - Dawn's Piplup: dpip 
+Pokémon Giratina & The Sky Warrior - Rgigigas: giga
+Pokémon Center Japan Clefairy Promotion: clef
+Pokémon Center Pocha Marche Piplup: pip
+Pokémon Center Birthday Happiny: happy
+```
+** **

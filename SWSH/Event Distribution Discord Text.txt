@@ -1,0 +1,77 @@
+**__Event Distributions__**
+
+Using `$sr name`, the bot will simulate past Event Distributions:  
+```
+Scarlet & Violet Celebration Shiny Eternatus: psvcetern
+UK Mystical Pokémon 2022 Marshadow: ukmar
+UK Mystical Pokémon 2022 Volcanion: ukvol
+UK Mystical Pokémon 2022 Genesect: ukgen
+Pokémon Worlds 2022 Victory Victini: pwvic
+Pokémon Worlds 2022 Sinistea: pwsin
+Pokémon Masters Eight Ash's Lucario: pmeluca
+Pokémon Masters Eight Ash's Sirfetch'd: pmesir
+Pokémon Masters Eight Ash's Gengar: pmegen
+Pokémon Masters Eight Ash's Dragonite: pmedrag
+Pokémon Masters Eight Ash's Dracovish: pmedrac
+Pokémon Center Japan 2022 Clefairy: pcjclef
+Japan Movie Festival Jiarchi: pmfjir
+Japan Movie Festival Latias: pmflat
+Japan Movie Festival World Cap Pikachu: pmfwcp
+Japan Movie Festival Dialga: pmfdia
+Japan Movie Festival Palkia: pmfpal
+PIC 2022 Shiny Galar Armor Moltres: amol
+PIC 2022 Shiny Galar Wild Zapdos: wzap
+PIC 2022 Shiny Galar Crown Articuno: cart
+Arthur Shiny Zamazenta: art
+Lancer Shiny Zacian: lan
+Leonardo Charizard: leo
+GF Sing Pikachu: pikasing
+Rockstar Shiny Toxtricity:  rockstar
+Movie Zarude: zarude
+Movie Zarude (Dada form): xmas
+Movie shiny Celebi: celebi
+Ash Cap Pikachu Original: pika1
+Ash Cap Pikachu Hoenn: pika2
+Ash Cap Pikachu Sinnoh: pika3
+Ash Cap Pikachu Unova: pika4
+Ash Cap Pikachu Kalso: pika5
+Ash Cap Pikachu Alola: pika6
+Ash Cap Pikachu Partner: pika7
+Ash Cap Pikachu World: pika8
+JP Birthday Pikachu with Celebrate: pbday
+JP Birthday Eevee with Celebrate: ebday
+Home Shiny Zeraora: zeraora
+Home G-Max Melmetal: mel
+Original color Magearna: mag
+Pokéball Plus Mew (OT: Ash): mew
+US Dragon Majesty Shiny Poipole: poi
+PGL shiny Tapu Koko: koko
+PGL shiny Tapu Lele: lele
+PGL shiny Tapu Bulu: bulu
+PGL shiny Tapu Fini: fini
+Eclipse shiny Solgaleo: sol
+Eclipse shiny Lunala: luna
+ひみつ shiny Necrozma: necro
+Aether GX Shiny Silvally: silv
+JP Pokecenter shiny Diancie: dian
+JP Movie shiny Genesect: gene
+Mt Tensei Marshadow: mar
+Helen's Volcanion: volc
+Fates Collide XYZ Shiny Xerneas: xern
+Fates Collide XYZ Shiny Yveltal: yvel
+2018 Legends Shiny Zygarde: zyg
+Summer 2013 Shiny Dialga: dialga
+Summer 2013 Shiny Palkia: palkia
+Summer 2013 Shiny Giratina: gira
+Nintendo HK Shiny Jirachi: jira
+15th Anniversary Rayquaza(V-Create): rayv
+Galileo Shiny Rayquaza: ray
+ウルトラ shiny Kyogre: kyo
+ウルトラ shiny Groudon: gro
+PCキョウト Kyoto Shiny Ho-oh: hooh
+Shiny Legendary Trio Raikou: raik
+Shiny Legendary Trio Entei: entei
+Shiny Legendary Trio Suicune: suic
+Play! Pokémon Shiny Mewtwo: mew2
+```
+** **

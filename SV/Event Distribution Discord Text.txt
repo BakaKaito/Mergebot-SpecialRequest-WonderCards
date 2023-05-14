@@ -1,0 +1,19 @@
+**__Event Distributions__**
+
+Using `$sr name`, the bot will simulate past Event Distributions:  
+```
+Pokémon Center 25th Anniversary Pikachu(Jumbo): pika25j
+Pokémon Center 25th Anniversary Pikachu(Mini): pika25m
+Oceania Int'l Championships Gavin Michaels Palafin : gavpala
+Pokémon TCG - SV Launch GameStop Distribution : pigsfly
+Pokémon Day Distribution Hisuian-Zoroark: hzoro
+Pokémon Oceania Intl. Jiseok Garganaci: garga
+Pre-Order Flying Tera Type Pikachu: pikafly
+Pokémon Jump Festa Gift Gyarados: gyara
+Pokémon Center Birthday Red Flabébé: bebered
+Pokémon Center Birthday Orange Flabébé:bebeora
+Pokémon Center Birthday Yellow Flabébé: bebeylw
+Pokémon Center Birthday Blue Flabébé: bebeblu
+Pokémon Center Birthday White Flabébé: bebewht
+```
+** **

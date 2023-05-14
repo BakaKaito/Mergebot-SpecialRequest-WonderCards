@@ -1,0 +1,13 @@
+**__Event Distributions__**
+
+Using `$sr name`, the bot will simulate past Event Distributions:  
+```
+PLA Anime VOD Release Hisui Growlith Distribution: hgrow
+Pokémon Giratina & The Sky Warrior - Dawn's Piplup: dpip 
+Pokémon Giratina & The Sky Warrior - Rgigigas: giga
+Gamestop Distribution Teresca Roca Hisui Growlith: trhgrow
+Pokémon Center Japan Clefairy Promotion: clef
+Pokémon Center Pocha Marche Piplup: pip
+Pokémon Center Birthday Happiny: happy
+```
+** **
