@@ -4,8 +4,8 @@ Using `$sr name`, the bot will simulate past Event Distributions:
 ```
 Scarlet & Violet Celebration Shiny Eternatus: psvcetern
 UK Mystical Pokémon 2022 Marshadow: ukmar
-UK Mystical Pokémon 2022 Volcanion: ukvol
-UK Mystical Pokémon 2022 Genesect: ukgen
+UK Mystical Pokémon 2022 Volcanion: ukvolc
+UK Mystical Pokémon 2022 Genesect: ukgene
 Pokémon Worlds 2022 Victory Victini: pwvic
 Pokémon Worlds 2022 Sinistea: pwsin
 Pokémon Masters Eight Ash's Lucario: pmeluca
@@ -19,16 +19,16 @@ Japan Movie Festival Latias: pmflat
 Japan Movie Festival World Cap Pikachu: pmfwcp
 Japan Movie Festival Dialga: pmfdia
 Japan Movie Festival Palkia: pmfpal
-PIC 2022 Shiny Galar Armor Moltres: amol
-PIC 2022 Shiny Galar Wild Zapdos: wzap
-PIC 2022 Shiny Galar Crown Articuno: cart
-Arthur Shiny Zamazenta: art
-Lancer Shiny Zacian: lan
-Leonardo Charizard: leo
+PIC 2022 Shiny Galar Armor Moltres: sgamol
+PIC 2022 Shiny Galar Wild Zapdos: sgwzap
+PIC 2022 Shiny Galar Crown Articuno: sgcart
+Arthur Shiny Zamazenta: artszam
+Lancer Shiny Zacian: lanszac
+Leonardo Charizard: leochar
 GF Sing Pikachu: pikasing
 Rockstar Shiny Toxtricity:  rockstar
-Movie Zarude: zarude
-Movie Zarude (Dada form): xmas
+Movie Zarude: movzarude
+Movie Zarude (Dada form): dadazarude
 Movie shiny Celebi: celebi
 Ash Cap Pikachu Original: pika1
 Ash Cap Pikachu Hoenn: pika2
@@ -41,37 +41,38 @@ Ash Cap Pikachu World: pika8
 JP Birthday Pikachu with Celebrate: pbday
 JP Birthday Eevee with Celebrate: ebday
 Home Shiny Zeraora: zeraora
-Home G-Max Melmetal: mel
-Original color Magearna: mag
-Pokéball Plus Mew (OT: Ash): mew
-US Dragon Majesty Shiny Poipole: poi
-PGL shiny Tapu Koko: koko
-PGL shiny Tapu Lele: lele
-PGL shiny Tapu Bulu: bulu
-PGL shiny Tapu Fini: fini
-Eclipse shiny Solgaleo: sol
-Eclipse shiny Lunala: luna
-ひみつ shiny Necrozma: necro
-Aether GX Shiny Silvally: silv
-JP Pokecenter shiny Diancie: dian
+Home G-Max Melmetal: melmetal
+Original color Magearna: ocmagearna
+Pokéball Plus Mew (OT: Ash): pbpmew
+US Dragon Majesty Shiny Poipole: usdmspoi
+PGL shiny Tapu Koko: pglkoko
+PGL shiny Tapu Lele: pgllele
+PGL shiny Tapu Bulu: pglbulu
+PGL shiny Tapu Fini: pglfini
+Eclipse shiny Solgaleo: essol
+Eclipse shiny Lunala: esluna
+ひみつ shiny Necrozma: snecro
+Aether GX Shiny Silvally: agssilv
+JP Pokecenter shiny Diancie: diancie
 JP Movie shiny Genesect: gene
-Mt Tensei Marshadow: mar
-Helen's Volcanion: volc
-Fates Collide XYZ Shiny Xerneas: xern
-Fates Collide XYZ Shiny Yveltal: yvel
-2018 Legends Shiny Zygarde: zyg
-Summer 2013 Shiny Dialga: dialga
-Summer 2013 Shiny Palkia: palkia
-Summer 2013 Shiny Giratina: gira
-Nintendo HK Shiny Jirachi: jira
+Mt Tensei Marshadow: mttmar
+Helen's Volcanion: hvolc
+Fates Collide XYZ Shiny Xerneas: fcxern
+Fates Collide XYZ Shiny Yveltal: fcyvel
+2018 Legends Shiny Zygarde: lszyg
+Summer 2013 Shiny Dialga: ssdialga
+Summer 2013 Shiny Palkia: sspalkia
+Summer 2013 Shiny Giratina: ssgira
+Nintendo HK Shiny Jirachi: nhkjira
 15th Anniversary Rayquaza(V-Create): rayv
-Galileo Shiny Rayquaza: ray
-ウルトラ shiny Kyogre: kyo
-ウルトラ shiny Groudon: gro
-PCキョウト Kyoto Shiny Ho-oh: hooh
-Shiny Legendary Trio Raikou: raik
-Shiny Legendary Trio Entei: entei
-Shiny Legendary Trio Suicune: suic
-Play! Pokémon Shiny Mewtwo: mew2
+Galileo Shiny Rayquaza: gsray
+ウルトラ shiny Kyogre: skyo
+ウルトラ shiny Groudon: sgro
+PCキョウト Kyoto Shiny Ho-oh: kshooh
+Shiny Legendary Trio Raikou: ltraik
+Shiny Legendary Trio Entei: ltentei
+Shiny Legendary Trio Suicune: ltsuic
+Play! Pokémon Shiny Mewtwo: ppmew2
 ```
+For Example: `.sr sgamol`  to receive the PIC 2022 Shiny Galar Armor Moltres event Pokémon.
 ** **
