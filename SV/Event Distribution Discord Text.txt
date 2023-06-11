@@ -2,6 +2,10 @@
 
 Using `$sr name`, the bot will simulate past Event Distributions:  
 ```
+Pokémon Japan Championships そらみつ Bronzong - jczong
+Pokémon Home Distribution HA Sprigatito - hasprig
+Pokémon Home Distribution HA Fuecoco - hacoco
+Pokémon Home Distribution HA Quaxly - haquax
 Arceus and the Jewel of Life Distribution Bronzong: jolbronz
 Arceus and the Jewel of Life Distribution Shiny Pichu: jolpichu
 Pokémon Center 25th Anniversary Pikachu(Jumbo): pika25j
