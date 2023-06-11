@@ -2,6 +2,8 @@
 
 Using `$sr name`, the bot will simulate past Event Distributions:  
 ```
+Arceus and the Jewel of Life Distribution Bronzong: jolbronz
+Arceus and the Jewel of Life Distribution Shiny Pichu: jolpichu
 Pokémon Center 25th Anniversary Pikachu(Jumbo): pika25j
 Pokémon Center 25th Anniversary Pikachu(Mini): pika25m
 Oceania Int'l Championships Gavin Michaels Palafin : gavpala

@@ -54,7 +54,7 @@ Eclipse shiny Lunala: esluna
 ひみつ shiny Necrozma: snecro
 Aether GX Shiny Silvally: agssilv
 JP Pokecenter shiny Diancie: diancie
-JP Movie shiny Genesect: gene
+JP Movie shiny Genesect: jpgene
 Mt Tensei Marshadow: mttmar
 Helen's Volcanion: hvolc
 Fates Collide XYZ Shiny Xerneas: fcxern
